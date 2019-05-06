@@ -1,0 +1,1 @@
+/* Modify the CHARTER table to add the attributes shown in the following table. */

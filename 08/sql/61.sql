@@ -1,0 +1,1 @@
+/* Write a query to display the average number of days a book is kept during a checkout. */

@@ -1,0 +1,1 @@
+/* Write a query to display the author ID, first and last name for all authors that have never written a book with the subject Programming. Sort the results by author last name. */

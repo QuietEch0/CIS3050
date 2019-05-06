@@ -1,0 +1,1 @@
+/* Write a query to display the patron ID and the average number of days that patron keeps books during a checkout. Limit the results to only patrons that have at least three checkouts. Sort the results in descending order by the average days the book is kept. */

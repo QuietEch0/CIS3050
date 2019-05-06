@@ -1,0 +1,1 @@
+/* Modify the PILOT table to add the attributes shown in the following table. */

@@ -1,0 +1,9 @@
+/* Modify the CUSTOMER table to include two new attributes: CUST_DOB and CUST_AGE. Customer 1000 was born on March 15, 1979, and customer 1001 was born on December 22, 1988. */
+
+
+ALTER TABLE CUSTOMER
+ADD CUST_DOB DATE,
+ADD CUST_AGE INT;
+
+UPDATE CUSTOMER SET CUST_DOB = '1979-03-15' WHERE CUST_NUM = 1000;
+UPDATE CUSTOMER SET CUST_DOB = '1988-12-22' WHERE CUST_NUM = 1001;
